@@ -35,3 +35,5 @@ con<-dbConnect(RSQLite::SQLite(),
                dbname="F:/UCL/GIS/Week1/Exam/Exam1.gpkg")
 con%>%
   dbListTables()
+
+#add lol
